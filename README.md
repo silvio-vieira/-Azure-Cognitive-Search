@@ -41,3 +41,6 @@ Como resultado, teremos a imagem a seguir, onde será exibido o número de itens
 
 __5 - Revisar o repositório de conhecimento__
 
+Ao executar o assistente Importar dados, também foi criado um repositório de conhecimento. Dentro do espaço de conhecimento, você encontraremos os dados enriquecidos extraídos pelas habilidades de IA na forma de projeções e tabelas.
+
+[Para mais detalhes clique aqui.](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html#review-the-knowledge-store)

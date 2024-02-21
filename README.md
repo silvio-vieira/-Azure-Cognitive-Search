@@ -31,7 +31,7 @@ Usaremos o Gerenciador de pesquisa para escrever e testar consultas. O explorado
 
 Abaixo do índice selecionado, altere a exibição para JSON view, 
 
-![imagem original](/inputs/search.jpg)
+![imagem original](/inputs/search.png)
 
 
 Revisar o repositório de conhecimento

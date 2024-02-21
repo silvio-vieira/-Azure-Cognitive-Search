@@ -29,9 +29,12 @@ __4 - Consultar o índice__
 
 Usaremos o Gerenciador de pesquisa para escrever e testar consultas. O explorador de pesquisa é uma ferramenta incorporada no portal do Azure que oferece uma maneira fácil de validar a qualidade do índice de pesquisa. Poderemos usar o Gerenciador de pesquisa para escrever consultas e revisar resultados em JSON.
 
-Abaixo do índice selecionado, altere a exibição para JSON view, 
+Abaixo do índice selecionado, altere a exibição para JSON view, insira os itens a serem pesquisados e clique em "Pesquisar":
 
 ![imagem original](/inputs/search.png)
 
+Como resultado, teremos a imagem a seguir
+
+![imagem original](/inputs/resul.png)
 
 Revisar o repositório de conhecimento

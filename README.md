@@ -35,6 +35,6 @@ Abaixo do índice selecionado, altere a exibição para JSON view, insira os ite
 
 Como resultado, teremos a imagem a seguir
 
-![imagem original](/inputs/resul.png)
+![imagem original](/inputs/result.png)
 
 Revisar o repositório de conhecimento

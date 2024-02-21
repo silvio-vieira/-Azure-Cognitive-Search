@@ -33,8 +33,11 @@ Abaixo do índice selecionado, altere a exibição para JSON view, insira os ite
 
 ![imagem original](/inputs/search.png)
 
-Como resultado, teremos a imagem a seguir
+Como resultado, teremos a imagem a seguir, onde será exibido o número de itens encontrados em @odata.count, os textos das avaliações e as palavras-chave selecionadas.
 
 ![imagem original](/inputs/result.png)
 
-Revisar o repositório de conhecimento
+[Para mais detalhes clique aqui.](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html#query-the-index)
+
+__5 - Revisar o repositório de conhecimento__
+
